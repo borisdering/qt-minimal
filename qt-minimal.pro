@@ -3,7 +3,7 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = minimal
+TARGET = qt-minimal
 INCLUDEPATH += .
 
 # You can make your code fail to compile if you use deprecated APIs.
